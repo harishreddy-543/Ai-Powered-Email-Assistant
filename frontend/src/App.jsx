@@ -1,3 +1,4 @@
+// AI-Powered Email Assistant - Main React Component
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Mail, ShieldAlert, Bell, Calendar, ListTodo, FileText, AlertTriangle, Sparkles, Search, BarChart3, Terminal, Settings, 

@@ -1,3 +1,4 @@
+# AI-Powered Email Assistant - Main Application Entry
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 

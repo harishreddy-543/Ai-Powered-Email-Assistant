@@ -1,3 +1,4 @@
+# AI-Powered Email Assistant - Authentication Module
 from datetime import timedelta
 from typing import Any
 from fastapi import APIRouter, Depends, HTTPException, status, Request
